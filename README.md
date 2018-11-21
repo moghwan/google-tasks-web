@@ -1,5 +1,5 @@
 # Google tasks: web version
-these are some css rules to make tasks.google.com/embed/?origin=https://mail.google.com accessible from browsers without Gmail integration.
+these are some css rules to make [tasks.google.com/embed/?origin=https://mail.google.com](tasks.google.com/embed/?origin=https://mail.google.com) accessible from browsers without Gmail integration.
 
 1. sign in with your google account.
 2. install [User JavaScript and CSS](https://goo.gl/EDWSWG) extention for chrome browser 
